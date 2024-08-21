@@ -1,0 +1,9 @@
+{
+  "name": "bhanu",
+  "email": "bhanu@gmail.com",
+  "address": {
+    "street": "123 main street",
+    "city": "new city"
+  },
+  "newKey": "newValue"
+}
